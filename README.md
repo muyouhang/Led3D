@@ -8,7 +8,7 @@ This project is an implementation for "Led3D: An lightweight and efficent deep a
 - Preprocessing (finished)
 
 - Augmentation
-- Inference
+- Inference (finished)
 
 ### Citation
 ```latex
