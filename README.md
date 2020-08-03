@@ -10,7 +10,6 @@ Dataset: [Lock3DFace](http://irip.buaa.edu.cn/lock3dface/index.html)
 
 - 3D Face Preprocessing (Done.)
 - 3D Face Augmentation (Done.)
-- 3D Face Augmentation (Done.)
 - Python Inference Code (Done.)
 
 ### Citation
