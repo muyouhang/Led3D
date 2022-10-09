@@ -2,7 +2,8 @@
 This project is an implementation for "Led3D: An lightweight and efficent deep approach to recognizing low-quality 3d faces"  [ [Download](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mu_Led3D_A_Lightweight_and_Efficient_Deep_Approach_to_Recognizing_Low-Quality_CVPR_2019_paper.pdf) ], which is accepted by **CVPR2019**.
 
 Dataset: [Lock3DFace](http://irip.buaa.edu.cn/lock3dface/index.html)
-<<<<<<< HEAD
+
+Lable: [Lock3DFace Label File](https://drive.google.com/file/d/1BoxocqSLHdX3wpQh7EnFFY-MiGcxXRQh/view?usp=sharing)
 
 ![pipeline](fig/pipeline.png)
 
